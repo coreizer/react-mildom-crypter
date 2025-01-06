@@ -1,7 +1,7 @@
 # mildom-livechat-react
 
 > [!NOTE]
-> www.mildom.comのサイトは閉鎖されました。
+> mildom.com はサービス終了およびサイトは閉鎖されました。
 
 <a href="https://www.mildom.com">Mildom (ミルダム) </a>のライブチャットの取得と表示
 
